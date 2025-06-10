@@ -1,0 +1,2831 @@
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739752401304
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2535
+                    [price] => 413.49
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2544
+                    [price] => 68.915
+                    [quantity] => 1
+                )
+
+        )
+
+    [GLOBAL_TOTAL_AMOUNT] => 482.405
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739754904335
+    [GLOBAL_TOTAL_AMOUNT] => 447.9475
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2534
+                    [price] => 413.49
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2538
+                    [price] => 34.4575
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739756905623
+    [GLOBAL_TOTAL_AMOUNT] => 300
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783718
+                    [price] => 100
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 3783726
+                    [price] => 200
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739756945217
+    [GLOBAL_TOTAL_AMOUNT] => 758.2115
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783714
+                    [price] => 558.2115
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 3783726
+                    [price] => 200
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739756977848
+    [GLOBAL_TOTAL_AMOUNT] => 513.49
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2534
+                    [price] => 413.49
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2554
+                    [price] => 100
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739756977407
+    [GLOBAL_TOTAL_AMOUNT] => 513.49
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2534
+                    [price] => 413.49
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2554
+                    [price] => 100
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739923920889
+    [GLOBAL_TOTAL_AMOUNT] => 500
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783721
+                    [price] => 500
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739924320827
+    [GLOBAL_TOTAL_AMOUNT] => 68.915
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2540
+                    [price] => 34.4575
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2541
+                    [price] => 34.4575
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739924878469
+    [GLOBAL_TOTAL_AMOUNT] => 800
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783724
+                    [price] => 800
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739926401469
+    [GLOBAL_TOTAL_AMOUNT] => 500
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783721
+                    [price] => 500
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 21c5tvl9i1cfdf69hrogj3ksec
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739926553291
+    [GLOBAL_TOTAL_AMOUNT] => 100
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783719
+                    [price] => 100
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 8n966gh9o268v8nlkun4hnm11g
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739926666120
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 04085v2mkf2404ru4rknr8akf7
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739926988388
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: br8k5il11nqj3ibg610s5nlkfb
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739927073691
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 80sdpujhrklobu0is68i6idahv
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739927307635
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 9uuv60iubb6c3loj82k6g804rt
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739927361870
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: mesnk0624o1e0ahf762l2lcn32
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739927542982
+    [GLOBAL_TOTAL_AMOUNT] => 500
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783721
+                    [price] => 500
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: kupbhplklv8hei0sahrv5aq09l
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739928062664
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: q5i0otrqpnsp7js03s55nlikbc
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739928605206
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: m46bjrug080f16s0muaj5qlbud
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739928866312
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 1bgfel4mepihldk6fm2jaocpkg
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739928901233
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: vjoo5f1inphskfs0pgk539tl7e
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739928978396
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: iltbk1ec3ptpq6sj019ss134rf
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929056493
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 83ngkj7hgh2183eka8joq40mkf
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929109245
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 9dp2ia061fm2flveh5buj2nrqr
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929151640
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 6j1su0b9v1cbsp4naq26h8rvag
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929243185
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 8j4ksls8lkd76ithsfinoqt9gm
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929360474
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: clqup38b2as3v0u6vqdtcap725
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929481765
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: v86dp8akucuu102b9kh71i3f83
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929501674
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 3q4oa5kb5togtroc2vf7492837
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929525842
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 7v4cgcbahcc7p80lingv9knthh
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929564225
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: rcbdrn37ja04t13s3p4q9dtg77
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929660412
+    [GLOBAL_TOTAL_AMOUNT] => 34.4575
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2541
+                    [price] => 34.4575
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 5sfnvg21dcf6cdbqnbr7ptkrfp
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929670428
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: kkjqca9o2vculqhtb3u54i6cge
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929715926
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: glcjmrs99cpajuce4p364gip04
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929716701
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 1phbh8j2ucpei34rsp75k8tfn0
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929760461
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: kse0vv83dmhsntc2btrkooukgl
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739929958544
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: dhosotjmg51ktcfbad40ek7tmt
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739930569702
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: og7g3mejv4edjg3oqk04972ten
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739930645821
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 5o9sqadr01c3qj4ua7108gf0m3
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739930743924
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: n6g029opd56qa3f2rddvfm4nnv
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739932068786
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 7dum59lah1t0s8ehgc5hhc9bvo
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739932484228
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 5eebehbh5n103ko0743bnl7cdc
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/5a6eb77c12985ab17dce5164d6264634"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739932590278
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 9letbfstcfi9stst9t9tasl765
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/1cf85441565c59434e0cf74d5e1c1daa"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739932952880
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: ogp0dqj4hrnlvri2tn6t2v37cn
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/001fe2f46468f5705236a5baa5367f32"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/001fe2f46468f5705236a5baa5367f32
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/001fe2f46468f5705236a5baa5367f32
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739932999784
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 45rr4ien0p8vjukdkh4o34abt5
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/497771d80047ef21440a0d438a053d4b"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/497771d80047ef21440a0d438a053d4b
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/497771d80047ef21440a0d438a053d4b
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933066265
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 9c02grc5sds1hg9hjce6nh1aql
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/8760fc376faf31a247c77e18e9c7a236"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/8760fc376faf31a247c77e18e9c7a236
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/8760fc376faf31a247c77e18e9c7a236
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933220511
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: le5ne6ir9o9eh6mghrfc435034
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/bea99a8d8f177899be321b709fdc7a2b"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/bea99a8d8f177899be321b709fdc7a2b
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/bea99a8d8f177899be321b709fdc7a2b
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933526586
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 103p0cjrsli7063sbl53ktmfs8
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/51b5caef9b7bca4f9dee6e130f42ee0b"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/51b5caef9b7bca4f9dee6e130f42ee0b
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/51b5caef9b7bca4f9dee6e130f42ee0b
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933589511
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: rhok3haci2gdn37bqlasrthcet
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/686ceb620b86b5e654aae8ea601a5786"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/686ceb620b86b5e654aae8ea601a5786
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/686ceb620b86b5e654aae8ea601a5786
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933675920
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: vl32njolj807l451ah73anok1q
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/5c5f024c22dc8a609a5d14eaa1ab6ee3"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933700282
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: tcdnmg84iukhimaqp5n625msfo
+Raw Response: <br />
+<b>Warning</b>:  Undefined array key "data" in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+{"status":"success","url":null}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739933745523
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 943kkf5qceug787o86g8d3ap88
+Raw Response: <br />
+<b>Warning</b>:  Undefined array key "data" in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+{"status":"success","url":null}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739934013195
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: ac9bl9tlm9jdb78t2c6af078ij
+Raw Response: {"status":"success","url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/9857abe9911303b4b7ecec40f86c2d1e"}
+Decoded Response: Array
+(
+    [status] => success
+    [url] => https://checkout.pisopay.com.ph/expresscheckoutv53/9857abe9911303b4b7ecec40f86c2d1e
+)
+
+Final URL for Redirect: https://checkout.pisopay.com.ph/expresscheckoutv53/9857abe9911303b4b7ecec40f86c2d1e
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739934910863
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+Session ID: 8jnidf7qf35u0v8s4t4kclqn65
+Raw Response: <!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>Pisopay.com &#8482 Secure Checkout</title>
+<!--/// META [start] ///-->
+<meta charset="utf-8"/>
+<meta name="robots" content="index, follow" />
+<meta name="description" content="Pisopay.com &#8482 Payment Checkout System"/>
+<meta name="application-name" content="Pisopay CheckOut V5;" />
+<meta name="author" content="PisoPay.com Developers TM;" />
+<meta name="generator" content="SubLime" />
+<meta name="keywords" content=""/>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=yes, target-densitydpi=medium-dpi" />
+<!-- <meta name="theme-color" content="#0094cd" /> -->
+<!--/// META [end] ///-->
+
+<!--/// ICON [start] ///-->
+<link rel="shortcut icon" href="https://checkout.pisopay.com.ph/storage/checkoutv5_3/icon/pisopayTM.ico" />
+<!--/// ICON [end] ///-->
+
+<!--/// JS [start] ///-->
+<script type="text/javascript" src="https://t.2c2p.com/SecurePayment/api/my2c2p.1.7.3.min.js"></script>
+<script src="https://checkout.pisopay.com.ph/js/checkoutv5_3/jquery-3.3.1.min.js"></script>
+<script src="https://checkout.pisopay.com.ph/js/checkoutv5_3/controls-main.js"></script>
+<script src="https://checkout.pisopay.com.ph/js/checkoutv5_3/pace.js"></script>
+<script src="https://checkout.pisopay.com.ph/js/checkoutv5_3/custom.js"></script>
+<script>
+	Pace.on('done', function() { 
+		$(".global-loader").delay(1000).slideUp(300);
+	});
+</script>
+
+
+<!--/// JS [end] ///-->
+
+<!--/// GLOBAL CSS [start] ///-->
+<link rel="stylesheet" href="https://checkout.pisopay.com.ph/css/checkoutv5_3/global.css" />
+<link rel="stylesheet" href="https://checkout.pisopay.com.ph/css/checkoutv5_3/template.css" />
+<link rel="stylesheet" href="https://checkout.pisopay.com.ph/css/checkoutv5_3/loader.css" />
+<link rel="stylesheet" href="https://checkout.pisopay.com.ph/fontawesome-free-6.0.0-web/css/all.min.css" />
+<!--/// GLOBAL CSS [end] ///-->
+
+<style type="text/css">
+
+#MFRAME {padding-bottom: 10em;}
+@media (min-width: 400px) {#MFRAME {padding-bottom: 11.5em;}}
+@media (min-width: 500px) {#MFRAME {padding-bottom: 14.5em;}}
+@media (min-width: 800px) {#MFRAME { padding-bottom: 5em;}}
+
+ 
+
+</style>
+
+</head>
+<body>
+
+	<div id="GPOP">
+	<div class="pop-frame">
+		<div class="pop-box compact">
+			<div class="pop-header">
+				<div class="header-box">
+				<div class="title" id="pop-title">Popup</div>
+				<div class="popbtn-close"><i class="fa-solid fa-xmark"></i></div>
+				</div>
+			</div>	
+			<div class="pop-loader">
+				<div class="pisopay-loader">
+    <div class="loader-box">
+        <div class="loader-icon">
+            <div class="p-loader-animation">
+                <div class="p1">&nbsp;</div><div class="p2">&nbsp;</div><div class="p3">&nbsp;</div><div class="p4">&nbsp;</div><div class="p5">&nbsp;</div><div class="p6">&nbsp;</div><div class="p7">&nbsp;</div><div class="p8">&nbsp;</div>
+            </div>
+            <div class="c-loader-animation">
+                <div class="c1">&nbsp;</div><div class="c2">&nbsp;</div><div class="c3">&nbsp;</div><div class="c4">&nbsp;</div><div class="c5">&nbsp;</div><div class="c6">&nbsp;</div><div class="c7">&nbsp;</div><div class="c8">&nbsp;</div>
+            </div>
+        </div>
+        <div class="loader-label">Please wait while we process your request...</div>
+        <div class="redirect-label">Your are now being redirected to <span>Pisopay.com</span> Secure Payment Portal.</div>
+    </div>
+</div>
+			</div>
+			<div class="pop-body"></div>
+		</div>
+	</div>
+	<div class="pop-bg">&nbsp;</div>
+</div>	<!-- PISOPAY HEADER [start] -->
+<div id="PHEAD">
+	<div class="logo">
+		<div class="icon"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-pisopay-white.svg"></div>
+		<div class="name">Pisopay.com&#8482; Secure Checkout</div>
+	</div>
+	<div class="pnav">
+		<ul>
+			<li onclick="window.open('https://pisopay.com.ph', '_blank')"><i class="fa-solid fa-circle-question"></i> <span>About Pisopay.com</span></li>
+			<li class="popbtn-open popbtn-terms"><i class="fa-solid fa-file"></i> <span>Terms</span></li>
+			<li class="popbtn-open popbtn-support"><i class="fa-solid fa-wrench"></i> <span>Support</span></li>
+		</ul>
+	</div>
+</div>
+<!-- PISOPAY HEADER [end] -->
+
+			<!-- MERCHANT HEADER [start] -->
+<div id="MHEAD">
+	<div id="mhead-bck-1" class="mnav back btn-slider-p1"><i class="fa-solid fa-angle-left"></i></div>
+	<div id="mhead-bck-2" class="mnav back btn-slider-p2 sum-fee-refresh"><i class="fa-solid fa-angle-left"></i></div>
+	<div class="mnav bars" id="m-contact"><i class="fa-solid fa-ellipsis"></i></div>
+	<div class="mname">
+		<div class="logo">
+			<div class="logo-pos" onclick="window.open('https://pisopay.com.ph', '_blank')"><img src="https://checkout.pisopay.com.ph/storage/merchant_logo/#"></div>
+		</div>
+		<div class="info">
+			<div class="name">Api Demo Account 2</div>
+			<div class="address">Makati City PH</div>
+		</div>
+	</div>
+	<div class="msubnav">
+		<div class="sn-pointer"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-bubble-pointer2.svg"></div>
+		<div class="mcontact">
+			<ul>
+				<li onclick="window.open('', '_blank')">
+					<i class="fa-brands fa-facebook-f"></i>					<div class="bubble-label">
+						<div class="pointer"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-bubble-pointer2.svg"></div>
+						<div class="label">Facebook Page</div>
+						
+					</div>
+				</li>
+				<li class="popbtn-open popbtn-contact">
+					<i class="fa-solid fa-phone"></i>					<div class="bubble-label">
+						<div class="pointer"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-bubble-pointer2.svg"></div>
+						<div class="label">Contact Info</div>					
+					</div>
+				</li>
+				<li class="popbtn-open popbtn-map">
+					<i class="fa-solid fa-location-dot"></i>					<div class="bubble-label">
+						<div class="pointer"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-bubble-pointer2.svg"></div>
+						<div class="label">Location Map</div>					
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- MERCHANT HEADER [end] -->
+
+		<div class="global-loader l-clr-full">
+	<div class="pisopay-loader">
+    <div class="loader-box">
+        <div class="loader-icon">
+            <div class="p-loader-animation">
+                <div class="p1">&nbsp;</div><div class="p2">&nbsp;</div><div class="p3">&nbsp;</div><div class="p4">&nbsp;</div><div class="p5">&nbsp;</div><div class="p6">&nbsp;</div><div class="p7">&nbsp;</div><div class="p8">&nbsp;</div>
+            </div>
+            <div class="c-loader-animation">
+                <div class="c1">&nbsp;</div><div class="c2">&nbsp;</div><div class="c3">&nbsp;</div><div class="c4">&nbsp;</div><div class="c5">&nbsp;</div><div class="c6">&nbsp;</div><div class="c7">&nbsp;</div><div class="c8">&nbsp;</div>
+            </div>
+        </div>
+        <div class="loader-label">Please wait while we process your request...</div>
+        <div class="redirect-label">Your are now being redirected to <span>Pisopay.com</span> Secure Payment Portal.</div>
+    </div>
+</div>
+</div>
+<input id = "page" type="hidden" value = "process">
+	<script>
+		function startTimers(duration) {
+			var timer = duration,hours, minutes, seconds;
+			setInterval(function () {
+
+				minutes = parseInt(timer / 60, 10)
+				seconds = parseInt(timer % 60, 10);
+
+				minutes = minutes < 10 ? "0" + minutes : minutes;
+				seconds = seconds < 10 ? "0" + seconds : seconds;
+
+				display0 = $('#process-counter-mobile');
+				display1 = $('#callback-counter-pc');
+				display0.text(minutes + ":" + seconds);
+				display1.text(minutes + ":" + seconds);
+
+				if (--timer < 0) {
+					timer = duration;
+					window.parent.location = '/expresscheckoutv53/error/TIMEERR1';
+				}
+			}, 1000);
+		}
+		jQuery(function ($) {
+			var minutes = 30 * 60;
+			startTimers(minutes);
+		});
+	</script>
+	<form id="frmProcessMain" action="https://checkout.pisopay.com.ph/expresscheckoutv53/result/88efc4dc3a197ad072ebae1e9c8b9762" method="POST">
+		<input type="hidden" name="_token" value="0zCyrxc0PQJBdOMuNEZA2HqaesLJyDPx1B5qIdlH">	<input id = "checkoutToken" type="hidden" value = "88efc4dc3a197ad072ebae1e9c8b9762">
+	<input id = "totalAmount" type="hidden" value = "10">
+	<input id = "otherFees" type="hidden" value = "0">
+	<input id = "paymentChannelCode" class="paymentChannelCode" name="paymentChannelCode" type="hidden">
+	</form>
+
+<div id="MFRAME">
+		<div class="global-margin standard">
+		<div class="rowset">
+			<!-- Steps [start] -->
+<div id="payment-guide" class="col3">
+	<ul>
+				<li class="step1 active">
+			<div class="no"><span>1</span><i class="fa-solid fa-check"></i></div>
+			<div class="label">Order <span>Info</span></div>
+		</li>
+		<li class="step2">
+			<div class="no"><span>2</span><i class="fa-solid fa-check"></i></div>
+			<div class="label"><span>Payment</span> Method</div>
+		</li>
+		<li class="step3 edge">
+			<div class="no"><span>3</span><i class="fa-solid fa-check"></i></div>
+			<div class="label"><span>Process</span> Payment</div>
+		</li>
+			</ul>
+</div>
+<!-- Steps [end] -->		</div>
+		<div class="rowset">
+			<div class="content-box gradient-bg">
+				<div id="page-slider">					
+					<div class="slider" id="process-slider">
+						
+												<!--///////////////// Process - Complete Payment Options [start] /////////////////-->	
+						<!-- Order Info -->
+						<div class="page">
+							<div class="box-header">
+								<div class="title">Check your Order Details</div>
+								<div class="sub-title">You are about to process the payment for your order. Please check details before proceeding with payment.</div>
+							</div>
+							<div class="p-slide p1">
+								<div id="order-info">
+	<div class="info-list">
+		<ul>
+			<li class="header">
+				<ul>
+					<li>Item/s</li>
+					<li>Qty</li>
+					<li>Amount</li>
+				</ul>
+			</li>
+
+			
+				<li>
+					<ul>					
+						<li>2549</li>
+						<li>1</li>
+						<li>&#8369;&nbsp;10.00</li>
+					</ul>
+				</li>
+					
+		</ul>
+	</div>
+	<div class="box-footer">
+		<div class="btn-pos justify">
+			<ul>	
+				<li><div class="btn-type2 popbtn-open popbtn-cancel"><btn>Cancel</btn></div></li>	
+									<li id="element"><div class="btn-type1"><btn class='btn-slider-p2'>Continue</btn></div></li>	
+									
+			</ul>
+		</div>
+	</div>
+</div>	
+
+							</div>
+						</div>
+						<!-- Payment Method -->
+						<div class="page">
+							<div class="box-header">
+								<div class="title">How do you want to Pay?</div>
+							</div>
+							<div class="p-slide p2">
+								<div id="payment-method">
+	<div class="list">
+		<ul>
+
+												<li>
+						<div class="pay-box">
+							<div class="header">
+								<div class="icon"><i class="fa-solid fa-credit-card"></i></div>
+								<div class="info">
+									<div class="title">Credit/Debit Card</div>
+									<div class="sub-title">Pay Using your Visa ,Mastercard or JCB Credit/Debit card.</div>
+								</div>
+							</div>
+							<div class="sub-box">
+								<ul>
+									
+																					<li>
+												<div class="sub-opt btn-slider-p3 btn-channel-crd4">
+																						
+													<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-creditcard.png"></div>
+													<div class="info">
+														<input type="hidden" value="eyJpdiI6IlFldEtoNk5EeEFjTUE4dmJpQWExOVE9PSIsInZhbHVlIjoiYUwwemVvZ0p4U1dxWVBqdzFONURtZz09IiwibWFjIjoiMDRhNzJhYzY1NWViMmZmYWEwOWYzYzQ3NzI0MmNlOTQyNWRiYWE5YTUwYjdhYmI2YzhlMWFkMTlkZTM1MTdhYSJ9" class="pyCode">
+														<input type="hidden" value="CC4" class="channelCode">
+														<input type="hidden" value="1.1" class="channelFee">
+														<div class="title">Credit/Debit Card (RMS)</div>
+														<div class="sub-title">Pay using your Visa / Master / JCB Credit or Debit Card</div>
+													</div>
+												</div>
+											</li>
+																											</ul>
+							</div>
+						</div>
+					</li>
+							
+												<li>
+						<div class="pay-box">
+							<div class="header">
+								<div class="icon"><i class="fa-solid fa-money-bill-wave"></i></div>
+								<div class="info">
+									<div class="title">Cash</div>
+									<div class="sub-title">Pay by Cash through any of our payment partners nationwide.</div>
+								</div>
+							</div>
+							<div class="sub-box">
+								<ul>	
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh1">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6Ik9qT1dIZWRHbU9NTm55a01ueUI0MlE9PSIsInZhbHVlIjoiOHoxbVJVU2EwbzVCakFIaHU4b3Jydz09IiwibWFjIjoiMDI4MDE5NzhmOTRjNjE0MjE4MzlkZmI1NzgyYjRmNTVkMTlmZTcxMGI4ZDk2NTdmOTA2MTg1ZGVlYzU1NWY0ZCJ9" class="pyCode">
+													<input type="hidden" value="PPC" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">Pisopay Partners</div>
+													<div class="sub-title">Pay by Cash through any of our payment partners nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh1">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6InV4MFpOTmdhXC9sK0tZUEdJajA0dFNnPT0iLCJ2YWx1ZSI6InBtQUp5OGVPUWlxcDYxRkJJVFlKekE9PSIsIm1hYyI6Ijc0MTQyZDhhNjlkMzc5YWRjZWMyNmFkNGJhNDI2MzEwMGRiNzcyOTc4YjcyNDRhMDg5MzA1NjVmYWM1OWI5NWYifQ==" class="pyCode">
+													<input type="hidden" value="PRP" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">Pawnshops / Remittance Center</div>
+													<div class="sub-title">Pay by Cash through any of our payment partners nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh2">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc-7eleven.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6InRYV1lpK1JUTFJPemFrTnMwaHkweHc9PSIsInZhbHVlIjoiXC9xQ21JcGtXR2NjMDVtYjhCY0htQVE9PSIsIm1hYyI6ImYzYTZlZTY4NTg4ZTk3MDQzMjIwNTJkZjc5OGM5NjZhZGE4YjFhZDFhMTgzYjI5ZGM5ZjhjNWUwMTRmYWUzZWUifQ==" class="pyCode">
+													<input type="hidden" value="SEV" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">7 Eleven</div>
+													<div class="sub-title">Pay by Cash through 7 Eleven branches nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh3">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc-lbc.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6Ino1VVIwR1FxWXVWQlFCMHQxa0tZTUE9PSIsInZhbHVlIjoiaktpY2FRd1VENDlSWmhEQXNmNHg4Zz09IiwibWFjIjoiZDE5ODY4YTQ3ZGE3ZThhYjFmZGFkYzYwYTJiY2UyOTBjZTE2ZmU4ZjNkM2YxZjBmZTQ4MmNlOWVjMDJiMGY3OSJ9" class="pyCode">
+													<input type="hidden" value="LBC" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">LBC</div>
+													<div class="sub-title">Pay by Cash through LBC branches nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh4">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc-fmart.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6Ilo4NDc0N3QwTTd1ZHZVR2NhSDNzSEE9PSIsInZhbHVlIjoiaTRXUzExOCtcLzUrRUNmZkQ2T3JPUVE9PSIsIm1hYyI6IjMwMjcyZjU4M2Y5NzkwM2ExZGVlMDI4YWMxYTM4OTA5MjViZDExZTkxMmNhYmQyZDZkODUzY2U1NzRjZTgzMGQifQ==" class="pyCode">
+													<input type="hidden" value="FMT" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">Family Mart</div>
+													<div class="sub-title">Pay by Cash through Family Mart branches nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-csh5">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-otc-cebuana.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6IlpoajgzWmw1VzBHaHVLeXRYY1VVTVE9PSIsInZhbHVlIjoiZ3RXd0hINlcwUWJrdFdzcnBzVEdMQT09IiwibWFjIjoiZDNkZWRkMDhjODczYTQ3YTZhZTE3YmUwYTFhN2U5NTQzMDBhMDg2ODNkZmVmZmE4YTQ3ZWZkZjQ1YTIyZjJhOSJ9" class="pyCode">
+													<input type="hidden" value="CEB" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">Cebuana Lhuillier</div>
+													<div class="sub-title">Pay by Cash through Cebuana Lhuillier branches nationwide.</div>
+												</div>
+											</div>
+										</li>
+									
+																	</ul>
+							</div>
+						</div>
+					</li>
+										
+												<li>
+						<div class="pay-box">
+							<div class="header">
+								<div class="icon"><i class="fa-solid fa-mobile-screen-button"></i></div>
+								<div class="info">
+									<div class="title">eMoney/Mobile Wallet</div>
+									<div class="sub-title">Pay using your e Money Account such as GCash, Maya, Cliqq and many more.</div>
+								</div>
+							</div>
+							<div class="sub-box">
+								<ul>	
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-emi1">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-em-gcash.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6IjhTMWNcLzhxT3gxMU5QWWVrVyt3R3hRPT0iLCJ2YWx1ZSI6ImRJOFRQWjRHNUF6ZXMxWVZcL3VaTGN3PT0iLCJtYWMiOiIzZDQxMmI5NWY0ZmY4OGY1MjFiNTM2ZDZiZjZlOTQ1NDgxNjI0NDBjNWEzMTczNTU0ZTBiNDI5NTZhMDRlMWRkIn0=" class="pyCode">
+													<input type="hidden" value="GC" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">GCash</div>
+													<div class="sub-title">Pay using your GCash account.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-emi2">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-em-maya.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6InFxb0VVR1wvb2NrTFR0MTRxd0lQMkFBPT0iLCJ2YWx1ZSI6InNDOTc5QmRNNE1oRnhzRCtmaDdoRGc9PSIsIm1hYyI6Ijg4NzljZjNmZjdiOGRmM2Q1YTVjZTBkY2RjNmFlZTRmZTI5NTA0ZWUyNjBjMmM3NzI2ODQxZTNlNjlmNTQ2YTUifQ==" class="pyCode">
+													<input type="hidden" value="PYA" class="channelCode">
+													<input type="hidden" value="0" class="channelFee">
+													<div class="title">Maya</div>
+													<div class="sub-title">Pay using your Maya account.</div>
+												</div>
+											</div>
+										</li>
+									
+																	</ul>
+							</div>
+						</div>
+				</li>
+							
+												<li>
+						<div class="pay-box">
+							<div class="header">
+								<div class="icon"><i class="fa-solid fa-globe"></i></div>
+								<div class="info">
+									<div class="title">Online Banking</div>
+									<div class="sub-title">Pay using your Bank Account via your online banking payment facility.</div>
+								</div>
+							</div>
+							<div class="sub-box">
+								<ul>	
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-emi7">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-em-qrph.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6IndPN0VKR2k1eElERUJoWlJ2YzdFUUE9PSIsInZhbHVlIjoiQ1BGak5aa2RaWUtKaW9WVWVxYlJpQT09IiwibWFjIjoiYzQwNTZlYTkxODgwZjc4ZGQzNTkyNDdhM2FiZGNmYzk2YzA5N2JkZjQzZjFjYTQ2Y2E1MTFjNjMwNDNkZGQ0YSJ9" class="pyCode">
+													<input type="hidden" value="QR1" class="channelCode">
+													<input type="hidden" value="1" class="channelFee">
+													<div class="title">QRPh</div>
+													<div class="sub-title">Pay using your QRPh account.</div>
+												</div>
+											</div>
+										</li>
+									
+									
+																			<li>
+											<div class="sub-opt btn-slider-p3 btn-channel-emi7">
+																								<div class="logo"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/logo/plogo-em-qrph.png"></div>
+												<div class="info">
+													<input type="hidden" value="eyJpdiI6IklzNkNpbFhoZ2lvdll5OGF0XC8yZFZ3PT0iLCJ2YWx1ZSI6ImdhVzl3clJMS1BKdkhRVUdBTlA0S2c9PSIsIm1hYyI6IjlmNzNlMzVmNDU1NGRhNDMzNGFkMjgzZDc3NDNhZTdmMjRjNTc3MzNlNzM0MWRiNWFjZGZlMTM3MjEwM2JjMjIifQ==" class="pyCode">
+													<input type="hidden" value="QR2" class="channelCode">
+													<input type="hidden" value="1" class="channelFee">
+													<div class="title">QRPh</div>
+													<div class="sub-title">Pay using your QRPh account.</div>
+												</div>
+											</div>
+										</li>
+									
+																	</ul>
+							</div>
+						</div>
+					</li>
+										
+										
+		</ul>
+	</div>
+	<div class="box-footer">
+		<div class="btn-pos left">
+			<ul>
+				<li class="hide"><div class="btn-type2"><btn class='btn-slider-p1'>Back</btn></div></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<script type="text/javascript">
+	$(".btn-slider-p3").on("click",function(){
+		let channelCode = $(this).find('.channelCode').val();
+		$(".paymentChannelCode").val(channelCode);
+
+		let totalAmount = parseFloat($("#totalAmount").val());
+		let channelFee = parseFloat($(this).find('.channelFee').val());
+		let otherFees = parseFloat($("#otherFees").val());
+		let grandTotalAmount = totalAmount + channelFee + otherFees;
+		grandTotalAmount = parseFloat(grandTotalAmount);
+        $('.sum-updateConfee').html(channelFee.toFixed(2));
+					$('.sum-otherFee').html(otherFees.toFixed(2));
+		
+        $('.sum-updateTotal').html('&#8369;&nbsp;'+grandTotalAmount.toFixed(2));
+	});
+</script>							</div>
+						</div>
+						<!-- Process Payment -->
+						<div class="page">
+							<div class="box-header">
+								<div class="title">Process your Payment</div>
+							</div>
+							<div class="p-slide p3">
+								<div id="payment-process">
+	<div class="section-loader">
+		<div class="pisopay-loader">
+    <div class="loader-box">
+        <div class="loader-icon">
+            <div class="p-loader-animation">
+                <div class="p1">&nbsp;</div><div class="p2">&nbsp;</div><div class="p3">&nbsp;</div><div class="p4">&nbsp;</div><div class="p5">&nbsp;</div><div class="p6">&nbsp;</div><div class="p7">&nbsp;</div><div class="p8">&nbsp;</div>
+            </div>
+            <div class="c-loader-animation">
+                <div class="c1">&nbsp;</div><div class="c2">&nbsp;</div><div class="c3">&nbsp;</div><div class="c4">&nbsp;</div><div class="c5">&nbsp;</div><div class="c6">&nbsp;</div><div class="c7">&nbsp;</div><div class="c8">&nbsp;</div>
+            </div>
+        </div>
+        <div class="loader-label">Please wait while we process your request...</div>
+        <div class="redirect-label">Your are now being redirected to <span>Pisopay.com</span> Secure Payment Portal.</div>
+    </div>
+</div>
+	</div>	
+	<div class="p-channel"></div>
+</div>							</div>							
+						</div>
+						<!--///////////////// Process - Complete Payment Options [end] /////////////////-->	
+						
+					</div>
+				</div>
+				<!-- Transaction Summary [start] -->
+<div id="tr-summary">
+	<div class="trsum-box">
+
+		<div class="counter">
+			<i class="fa-solid fa-clock"></i>						<span id="process-counter-pc">30:00</span>
+						<div class="counter-hover">
+				<div class="bubble-box">Time remaining to complete this process</div>
+				<div class="bubble-pointer"><img src="https://checkout.pisopay.com.ph/storage/checkoutv5_3/img/icon/icon-bubble-pointer1.svg"></div>
+			</div>
+		</div>
+		<div class="customer">
+			<ul>
+				<li class="name">John Doe</li>
+				<li><i class="fa-solid fa-location-dot"></i>PH</li>
+				<li><i class="fa-solid fa-phone"></i>09084876064</li>
+				<li><a href="mailto:developer@pisopay.com.ph"><i class="fa-solid fa-envelope"></i>developer@pisopay.com.ph</a></li>
+			</ul>
+		</div>
+		<div class="transaction">
+			<ul>
+				<li>
+					<ul>
+						<li class="label">Item/s</li>
+						<li class="output item">
+							 
+
+
+																								&#x2022;2549
+																	
+
+						</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Qty</li>
+						<li class="output">1</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Amount</li>
+						<li class="output">10.00</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Delivery Fee</li>
+						<li class="output">0.00</li>
+					</ul>
+				</li>				
+				<li>
+					<ul>
+						<li class="label">Convenience Fee</li>
+						<li class="output sum-updateConfee">
+							0.00						</li>
+					</ul>
+				</li>
+
+							</ul>
+		</div>
+		<div class="total">
+			<ul>
+				<li class="label">Total</li>
+				<li class="output sum-updateTotal">
+					&#8369;&nbsp;10.00				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+<!-- Transaction Summary [end] -->			</div>
+		</div>
+	</div>
+	</div>
+
+
+	<!-- Transaction Summary Mobile [start] -->
+<div id="tr-summary-m">
+	<div class="sub-data">
+		<div class="customer">
+			<ul>
+				<li class="name">John Doe</li>
+				<li><i class="fa-solid fa-location-dot"></i>PH</li>
+				<li><i class="fa-solid fa-phone"></i>09084876064</li>
+				<li><a href="mailto:developer@pisopay.com.ph"><i class="fa-solid fa-envelope"></i>developer@pisopay.com.ph</a></li>
+			</ul>
+		</div>
+		<div class="transaction">
+			<ul>
+				<li>
+					<ul>
+						<li class="label">Item/s</li>
+						<li class="output item">
+							 	
+
+																								&#x2022;2549
+																					
+						</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Qty</li>
+						<li class="output">1</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Amount</li>
+						<li class="output">10.00</li>
+					</ul>
+				</li>				
+				<li>
+					<ul>
+						<li class="label">Delivery Fee</li>
+						<li class="output">0.00</li>
+					</ul>
+				</li>
+				<li>
+					<ul>
+						<li class="label">Convenience Fee</li>
+						<li class="output sum-updateConfee">
+							0.00						</li>
+					</ul>
+				</li>
+
+				
+			</ul>
+		</div>
+	</div>
+	<div class="main-data">
+		<div class="timer">
+			<div class="counter">
+				<i class="fa-solid fa-clock"></i>								<span id="process-counter-mobile">30:00</span>
+							</div>
+		</div>
+		<div class="total">
+			<ul>
+				<li class="label">Total</li>
+				<li class="amt sum-updateTotal">
+					&#8369;&nbsp;10.00				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="drawer-collapse">
+		<div class="btn"><i class="fa-solid fa-arrow-down"></i></div>
+	</div>
+</div>
+<!-- Transaction Summary Mobile [end] -->
+</body>
+</html>
+Decoded Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739935032722
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739935309542
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739935343138
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: <br />
+<b>Warning</b>:  Undefined array key "data" in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+<br />
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>C:\xampp\htdocs\pisopay\PISOPAY_checkoutapi_bare_with_docs\PHP\index.php</b> on line <b>73</b><br />
+
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739935398297
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936279622
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/efb29659d98fc38035500c83b7c69d3a"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936335690
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/8fdab2e053fc8032985bd7dccd487806"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936374424
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/4e19d91b63ab9fa910ad43a9f9578744"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936549407
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/653099a9695c694c24c48eca95654f6f"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936601752
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/4b8c3889e8f4bd7efb8063c9b6723cd2"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739936768731
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+PisoPay Response: {"status":"error","message":"Session ID missing"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937055271
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: nbfv95f23jp5e9jusbu7csp1d9
+Checkout.php - PisoPay Response: {"status":"error","message":"Session ID missing"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937102361
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: tkdhdphar7cn458hua5uvs0fkf
+Checkout.php - PisoPay Response: {"status":"error","message":"Session ID missing"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937121152
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: n818qj629aq20hhhpbcb1sp23t
+Checkout.php - PisoPay Response: {"status":"error","message":"Session ID missing"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937495148
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 6eop62cuiov7nlfvucfic0827l
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/cbfa5a86c2f8a15135bfcb86cede77a6"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937655461
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: j5oso882pa1hnqb9ub8cudnv7t
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/863c5a99b77bbba53c906f9f6e40a3ac"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739937689571
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 90fl99djs7mlingdjj128pef2j
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/bf61bb77fc5eab9f1e7eb4e497c6eb23"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1739940848850
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: t7suk3ickcned4hti0ijghqj54
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/43d099afa84564f02f2eb50c3125af03"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741313374924
+    [GLOBAL_TOTAL_AMOUNT] => 30
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+            [1] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 6lbkjd0mqh075fikbvqq6e4hs7
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741313407331
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: pqo7f35eitm1qkv0utrjchvdsr
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741313584497
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: ka7ueo92btopq3bvp27c6j0t42
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741314875705
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: n3gq22lg3o4k37niulr7rdh1m7
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/d8c1212c10c5ac5d2c6f2dcc5a7b80b5"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741315024227
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: h6snoajvcf1pj4vivm6he0l37c
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741315065823
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: gi1rs2o8hkvh7ds8rechtkvn17
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741315211732
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: eklsijac3gp9reoqa3n3bb0n11
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741315246183
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: uf7qse3cn5se05s6ccbdrpubal
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741586707158
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 68agpfp4sqgnespm3l59ato0ip
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/7516115d8feb15cdb59a5dbffbeb1234"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741586835175
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: n6d0484h1fpj12mtpe828tdaal
+Checkout.php - PisoPay Response: {"status":"success","payment_url":"https:\/\/checkout.pisopay.com.ph\/expresscheckoutv53\/78863fa57a09be10f2195ab14261b542"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741590437642
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 56kh0j5ge2486dv4ta1f9ip9q6
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741590504325
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: mlj707lksekttuligkbtjhp92p
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741590581949
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: jc645830afsvq4a5jt9tt759vm
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741590644644
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: ui1tn9g97ldmn1ucvnclhgmj6q
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1741591044139
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 3mvad1qcapgn0hhk0v32l0h394
+Checkout.php - PisoPay Response: {"status":"error","message":"Failed to generate payment URL"}
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519064754
+    [GLOBAL_TOTAL_AMOUNT] => 500
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783725
+                    [price] => 500
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: tk9bc9sg843aitbaq9e7a05kbj
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519081920
+    [GLOBAL_TOTAL_AMOUNT] => 500
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 3783725
+                    [price] => 500
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 06vl1jggrpjs6e4oua6m21243k
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519104148
+    [GLOBAL_TOTAL_AMOUNT] => 34.4575
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2539
+                    [price] => 34.4575
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 0hr9k11usipq3f5fughke11n8g
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519125765
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: e63pblc4q60svd49235cnb056q
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519136519
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: vp0pplq57l2rfesklhbcce4rpl
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519145386
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 8jtubq7mh458u7vevnnoq7v61s
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519172502
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: hddeghcp4ulb7r7t15943ngrv1
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519183582
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: tpimjl6e684qg3mn3as0flok38
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519198688
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: t0s0stcunsu96imqmnho76m54a
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519295536
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 143g6cd547v66s5i8n636dg3g6
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519304153
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: hoq7k98i159tlejfi2o2lr2e20
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519312103
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: js6eopued0g018bvpciqd15pg8
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519352775
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: lo89cn7fu1brpoa1dcakpsodab
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519361122
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: ogc6b7ts03nj9pum6ik84vqfnk
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519370627
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 0c3grum981dk59rk8smusn88oj
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519379119
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: fno4eebn5pdq7qcl850aqa4h6h
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519391556
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: pagbuqf63liv1fgi4bl4pkc5nd
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749519477315
+    [GLOBAL_TOTAL_AMOUNT] => 20
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2550
+                    [price] => 20
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 1fr0jao0lul9u6glutisrh5amd
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749520456487
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: t00v3ohmp9oq0tie60ub3s7obr
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749520551829
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 9futda0kg6d2okmndcdo59j4o0
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749520560755
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 9tcfj1q6udsr6u4hrag7me2c4e
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749520570853
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 3uj1to4jrv20g2f5gut7d4qvmk
+Checkout.php - PisoPay Response: 
+Checkout API Session Data:
+Array
+(
+    [GLOBAL_REFERENCE_ID] => REF1749521555548
+    [GLOBAL_TOTAL_AMOUNT] => 10
+    [GLOBAL_BILLING_DETAILS] => Array
+        (
+            [0] => Array
+                (
+                    [name] => 2549
+                    [price] => 10
+                    [quantity] => 1
+                )
+
+        )
+
+)
+SESSION ID: 84e6rbb1f9apln37ri9lvfl852
+Checkout.php - PisoPay Response: 
